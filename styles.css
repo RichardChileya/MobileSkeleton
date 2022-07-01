@@ -1,8 +1,8 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    background: #fff;
-    background-image: url(Group\ 4.svg);
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  background-image: url(Group\ 4.svg);
 }
 
 .header {
@@ -61,13 +61,13 @@ body {
 }
 
 .h2 {
- color: #7f8cff;
- font-family: Poppins, sans-serif;
- font-style: normal;
- font-weight: 500;
- font-size: 16px;
- line-height: 24px;
- flex: none;
- order: 0;
-    flex-grow: 0;
+  color: #7f8cff;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
