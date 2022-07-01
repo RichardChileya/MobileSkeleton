@@ -71,3 +71,8 @@ body {
   order: 0;
   flex-grow: 0;
 }
+
+.social-media{
+    display: flex;
+    flex-direction: row;
+}
