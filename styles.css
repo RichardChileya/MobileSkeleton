@@ -4,7 +4,10 @@
     background: #FFFFFF;
     background-image: url(Group\ 4.svg);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 154acb5a765f55534f2b956975d4ba9e3b80e1da
 .header {
     display: flex;
     justify-content: space-between;
@@ -24,51 +27,72 @@ body {
     background: url(./images/header-shapes\ mobile.svg) no-repeat;
     height: 100vh;
 }
-
 .headline-content {
+<<<<<<< HEAD
     padding: 0 20px;
+=======
+  padding: 0 20px; 
 }
-
+.logo1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 12px;
+>>>>>>> 154acb5a765f55534f2b956975d4ba9e3b80e1da
+}
 .menu-icon {
-    position: absolute;
-    margin-right: 10px;
+ position: absolute;
+ margin-right: 10px;
 }
-
 .menu {
+<<<<<<< HEAD
     color: green;
 }
 
 .spacer {
     flex: 1;
+=======
+ color: green;
 }
 
+.spacer {
+  flex: 1;
+
+>>>>>>> 154acb5a765f55534f2b956975d4ba9e3b80e1da
+}
 .img1 {
+<<<<<<< HEAD
     max-width: 30%;
     height: auto;
     height: 24px;
     float: right;
     margin-right: 20px;
+=======
+ max-width: 30%;
+ height: auto;
+ height: 24px;
+ float: right;
+ margin-right: 20px;
+>>>>>>> 154acb5a765f55534f2b956975d4ba9e3b80e1da
 }
-
 .h1 {
-    color: #172B4D;
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 52px;
+ color: #172B4D;
+ font-family: Poppins;
+ font-style: normal;
+ font-weight: 700;
+ font-size: 40px;
+ line-height: 52px;
 }
-
 .p1 {
-    color: #344563;
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+  color: #344563;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
-
 .h2 {
+<<<<<<< HEAD
     color: #7F8CFF;
     font-family: Poppins;
     font-style: normal;
@@ -79,3 +103,15 @@ body {
     order: 0;
     flex-grow: 0;
 }
+=======
+  color: #7F8CFF;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+>>>>>>> 154acb5a765f55534f2b956975d4ba9e3b80e1da
