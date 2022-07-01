@@ -1,24 +1,24 @@
 .container {
-    Display: flex;
+    display: flex;
     flex-direction: column;
     background: #FFFFFF;
     background-image: url(Group\ 4.svg);
 }
 
-
 .header {
     display: flex;
     justify-content: space-between;
     padding: 0 15px;
-    margin:20px 0 40px 0;
+    margin: 20px 0 40px 0;
 }
-body{
+
+body {
     width: 100%;
     margin: 0;
     padding: 0;
-    
 }
-.headline-section{
+
+.headline-section {
     display: flex;
     flex-direction: column;
     background: url(./images/header-shapes\ mobile.svg) no-repeat;
@@ -26,18 +26,7 @@ body{
 }
 
 .headline-content {
-  padding: 0 20px;
-
-
-    
-}
-
-.logo1 {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 20px 12px;
-
+    padding: 0 20px;
 }
 
 .menu-icon {
@@ -47,12 +36,10 @@ body{
 
 .menu {
     color: green;
-
 }
 
 .spacer {
     flex: 1;
-
 }
 
 .img1 {
@@ -61,7 +48,6 @@ body{
     height: 24px;
     float: right;
     margin-right: 20px;
-
 }
 
 .h1 {
@@ -85,7 +71,6 @@ body{
 .h2 {
     color: #7F8CFF;
     font-family: Poppins;
-
     font-style: normal;
     font-weight: 500;
     font-size: 16px;

@@ -22,8 +22,8 @@
 
 👤 **Author**: **Richard Chileya**
 
-- GitHub: [@Melashu](https://github.com/RichardChileya)
-- Twitter: [@meshu102](https://twitter.com/richardchileya)
+- GitHub: [@RichardChileya](https://github.com/RichardChileya)
+- Twitter: [@RichardCileya](https://twitter.com/richardchileya)
 - LinkedIn:  [Linkedin](https://www.linkedin.com/in/richardchileya/)
 
 ## 🤝 Contributing
