@@ -26,7 +26,7 @@ body {
 }
 
 .headline-content {
-  padding: 24px ;
+  padding: 24px;
 }
 
 .menu-icon {
@@ -46,24 +46,24 @@ body {
 }
 
 .paragraph1 {
- color: #344563;
- font-family: Poppins, sans-serif;
- font-style: normal;
- font-weight: 400;
- font-size: 16px;
- line-height: 24px;
+  color: #344563;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .lets-connect {
- color: #7f8cff;
- font-family: Poppins, sans-serif;
- font-style: normal;
- font-weight: 500;
- font-size: 16px;
- line-height: 24px;
- flex: none;
- order: 0;
- flex-grow: 0;
+  color: #7f8cff;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .social-media {
