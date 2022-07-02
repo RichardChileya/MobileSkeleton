@@ -34,24 +34,17 @@ body {
   margin-right: 10px;
 }
 
-.img1 {
-  max-width: 30%;
-  height: auto;
-  height: 24px;
-  float: right;
-  margin-right: 20px;
-}
-
-.h1 {
+.heading1 {
   color: #172b4d;
   font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
+  align-items: center;
 }
 
-.p1 {
+.paragraph1 {
   color: #344563;
   font-family: Poppins, sans-serif;
   font-style: normal;
@@ -60,7 +53,7 @@ body {
   line-height: 24px;
 }
 
-.h2 {
+.lets-connect {
   color: #7f8cff;
   font-family: Poppins, sans-serif;
   font-style: normal;
@@ -70,4 +63,12 @@ body {
   flex: none;
   order: 0;
   flex-grow: 0;
+}
+
+.social-media {
+  display: flex;
+  width: 170.17px;
+  height: 20px;
+  gap: 20px;
+
 }
