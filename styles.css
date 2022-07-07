@@ -8,9 +8,7 @@
   flex-direction: column;
   background: #e5e5e5;
   justify-content: center;
-  flex-direction: column;
   row-gap: 80px;
- 
 }
 
 .header {
