@@ -2,7 +2,8 @@
   margin: 0;
   padding: 10;
 }
-.main-section{
+
+.main-section {
   display: grid;
   flex-direction: column;
   row-gap: 100px;
@@ -10,13 +11,13 @@
   background: #e5e5e5;
 }
 
- .container {
+.container {
   display: grid;
   flex-direction: column;
   background: #e5e5e5;
   justify-content: center;
   row-gap: 80px;
-} 
+}
 
 .header {
   display: flex;
@@ -367,7 +368,8 @@ body {
   margin-left: 180px;
   justify-content: center;
 }
-hr{
+
+hr {
   row-gap: 2%;
 }
 
